@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<open_cafe>
+<food>
+    <name>Chicken Biryani</name>
+    <price>Rs.150</price>
+    <description>
+   serves 1
+   </description>
+</food>
+<food>
+    <name>Chicken Fry Piece Biryani</name>
+    <price>Rs.160</price>
+    <description>
+    Serves 1
+    </description>
+</food>
+<food>
+    <name>Veg Fried Rice</name>
+    <price>Rs.100</price>
+    <description>
+    serves 1
+    </description>
+</food>
+<food>
+    <name>Egg Fried Rice</name>
+    <price>Rs.120</price>
+    <description>
+    Serves 1
+    </description>
+</food>
+<food>
+    <name>Chicken Fried Rice</name>
+    <price>Rs.130</price>
+    <description>
+    Serves 1
+    </description>
+</food>
+</open_cafe>
